@@ -1,9 +1,9 @@
 export default {
-  input: './src/y-websocket.js',
+  input: './src/y-taubyte.js',
   external: id => /^(lib0|yjs|y-protocols)/.test(id),
   output: [{
-    name: 'y-websocket',
-    file: 'dist/y-websocket.cjs',
+    name: 'y-taubyte',
+    file: 'dist/y-taubyte.cjs',
     format: 'cjs',
     sourcemap: true,
     paths: path => {
