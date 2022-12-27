@@ -32,7 +32,7 @@ Create a serverless function https://tau.how/docs/getting-started/first-serverle
 Configuration refrence https://tau.how/docs/config/messaging
 
 ## Generate WebSocket link
-Create an HTTP GET function and copy past the code below. Note that the function's entry poing is `getsocketurl`,
+Create an HTTP GET function and copy/paste the code below. Note that the function's entry point is `getsocketurl`,
 ```go
 package lib
 
@@ -105,6 +105,9 @@ execution:
 ```
 
 
+# Maintainers
+ - Sam Stoltenberg @skelouse
+ - Samy Fodil @samyfodil
 
 
 # License
