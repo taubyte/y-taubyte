@@ -1,7 +1,7 @@
 {
   "name": "y-taubyte",
-  "version": "0.2.0",
-  "description": "A taubyte hosted websocket provider for y-js",
+  "version": "2.0.0",
+  "description": "Use Taubyte's PubSub as a backend for yjs.",
   "main": "./dist/y-taubyte.cjs",
   "repository": "git@github.com:taubyte/y-taubyte.git",
   "license": "MIT",
